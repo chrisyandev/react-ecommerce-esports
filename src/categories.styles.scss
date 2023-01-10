@@ -1,7 +1,6 @@
 .categories-container {
-  .category-container {
-    .category-body-container {
-      background-color: lightblue;
-    }
-  }
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
