@@ -1,10 +1,15 @@
+import { useContext } from "react";
 import { Outlet, Link } from "react-router-dom";
 
 import { ReactComponent as HomeLogo } from "../../assets/game-controller.svg";
+import { UserContext } from "../../contexts/user.context";
 
 import "./navigation.styles.scss";
 
 function Navigation() {
+  const { currentUser } = useContext(UserContext);
+  console.log(currentUser);
+
   return (
     <>
       <div className="navigation">
