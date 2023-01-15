@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Xbox Wireless Controller",
+    "imageUrl": "https://m.media-amazon.com/images/I/61X3uV04ztL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "price": 74.99
+  },
+  {
+    "id": 2,
+    "name": "DualShock 4 Controller",
+    "imageUrl": "https://m.media-amazon.com/images/I/71d9U+F5lbL._AC_SX679_.jpg",
+    "price": 74.96
+  },
+  {
+    "id": 3,
+    "name": "Corsair Cloth Mouse Pad",
+    "imageUrl": "https://m.media-amazon.com/images/I/71YXLQ-TwlL._AC_SX679_.jpg",
+    "price": 14.99
+  },
+  {
+    "id": 4,
+    "name": "Razer Gigantus Cloth Mouse Pad",
+    "imageUrl": "https://m.media-amazon.com/images/I/81NLgh-2QfL._AC_SX679_.jpg",
+    "price": 14.96
+  },
+  {
+    "id": 5,
+    "name": "Superglide - Logitech G Pro X Superlight",
+    "imageUrl": "https://m.media-amazon.com/images/I/61gC7WhXElL._AC_SX679_.jpg",
+    "price": 30.95
+  },
+  {
+    "id": 6,
+    "name": "Razer Iskur Gaming Chair",
+    "imageUrl": "https://m.media-amazon.com/images/I/61UxlbOCDiL._AC_SX569_.jpg",
+    "price": 786.77
+  },
+  {
+    "id": 7,
+    "name": "Secretlab Titan Evo",
+    "imageUrl": "https://m.media-amazon.com/images/I/517HZjvB42L._AC_SY355_.jpg",
+    "price": 1778.32
+  },
+  {
+    "id": 8,
+    "name": "Logitech G PRO X Wireless Headset",
+    "imageUrl": "https://m.media-amazon.com/images/I/51j+X0scmhL._AC_SX569_.jpg",
+    "price": 234.98
+  },
+  {
+    "id": 9,
+    "name": "SteelSeries Arctis 9X Headset",
+    "imageUrl": "https://m.media-amazon.com/images/I/81t7C7EiagL._AC_SX569_.jpg",
+    "price": 199.99
+  }
+]
